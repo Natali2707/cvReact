@@ -1,0 +1,18 @@
+.main{
+   /* background-color:goldenrod ; */
+   /* width: 80%; */
+    font-size: 30px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    /* flex-direction: column; */
+}
+.leftBlock{
+   background-color: bisque;
+   border:1px solid rgb(48, 19, 19) ;
+}
+.rightBlock{
+align-items: flex-start;
+border:1px solid rgb(226, 234, 140) ;
+
+}

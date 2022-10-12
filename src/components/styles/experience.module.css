@@ -1,0 +1,9 @@
+.experience{
+    height: 50px;
+    /* width: 80%; */
+    background-color: cadetblue;
+    color:tomato;
+    display: flex;
+    /* margin-left: auto; */
+    justify-content: center;
+}

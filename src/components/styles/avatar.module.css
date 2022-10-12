@@ -1,0 +1,34 @@
+ .head{
+    
+    width: 100%;
+    background-color: rgb(157, 219, 231);
+    color: white;
+    display: flex;
+    /* justify-content:space-between; */
+}
+.navigation{
+    width: 100%;
+    display: flex;
+    /* justify-content:space-between; */
+    /* align-items: center; */
+}
+.avatar{
+    height: 250px;
+    width: 100%;
+    /* align-items:flex-start; */
+}
+.education{
+    height: 100%;
+    width: 100%;
+    align-items:flex-end;
+}
+.educ{
+ flex-direction: column; 
+ align-items:flex-end;
+
+} 
+
+.pic{
+    height: 100%;   
+    /* align-items:flex-start; */
+}
